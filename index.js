@@ -1,5 +1,6 @@
 'use strict'
 
+import { Buffer } from 'node:buffer';
 var Parser = require('jsonparse')
   , through = require('through')
 
